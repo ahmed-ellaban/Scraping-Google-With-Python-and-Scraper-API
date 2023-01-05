@@ -149,14 +149,15 @@ This is the result
         Process finished with exit code 0
 
 
-Now we have a working script but we cannot run it a lot because we will get banned
-so let us go to the next step using Scraper API
-Scraper API is a web service that enables automated data extraction from websites. Scrapers are used for a variety of purposes, but the most common is to collect data that would be too difficult or time-consuming to obtain manually. A scraper is an API that allows for automated data collection, whereas a crawler is a software that crawls and indexes web pages.
+**Now we have a working script but we cannot run it a lot because we will get banned
+so let us go to the next step using [Scraper API](https://www.scraperapi.com/?fp_ref=ae)
+[Scraper API](https://www.scraperapi.com/?fp_ref=ae) is a web service that enables automated data extraction from websites. Scrapers are used for a variety of purposes, but the most common is to collect data that would be too difficult or time-consuming to obtain manually. A scraper is an API that allows for automated data collection, whereas a crawler is a software that crawls and indexes web pages.
 This can be done manually or with the use of software tools known as web scrapers. These software tools are typically favored because they are more powerful, quicker, and, hence, handier.
 After extracting the user's desired data, web scrapers frequently reformat the data into a more usable format, such as an Excel spreadsheet.
-the most important thing it provides a free plan which we can use and avoid the banning of google and it provides bigger plans in good cost you can see the Pricing Page
+the most important thing it provides a free plan which we can use and avoid the banning of google and it provides bigger plans in good cost you can see the [Pricing Page](https://www.scraperapi.com/pricing?fp_ref=ae)**
+
 ## 6-let us first create an account
-go to sign-up page and create an account then copy your API key
+go to [sign-up page](https://www.scraperapi.com/signup?fp_ref=ae) and create an account then copy your API key
 copy the API key
 
 ## 7-let us add api key param in the script
